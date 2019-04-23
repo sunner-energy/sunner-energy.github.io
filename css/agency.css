@@ -757,6 +757,15 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   
 }
 
+#silverfox {
+  
+  
+  background-image: url('../img/funcion.png');
+  background-size: cover;
+  background-position: initial;
+  height: 100vh;
+}
+
 .btn-redondo-blanco{
   background-color: #ffffff; 
   border: none;
