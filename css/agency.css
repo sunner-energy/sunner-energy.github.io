@@ -748,6 +748,13 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
     
 }
 
+#redes ul li {
+  float: left;
+	height: 50%;
+	width: 100%;
+	margin-bottom: -50px;
+}
+
 .quiero-el-mio-txt{
   color: #000;
   font-family: 'Raleway';
